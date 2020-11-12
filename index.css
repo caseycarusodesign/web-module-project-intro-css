@@ -52,48 +52,95 @@ html{
     font-size: 10px;
 }
 
-.header-nav {
+.nav {
     margin: 5%;
     display: inline;
 }
 
 .nav-button-left {
     margin: 4%;
-    width: 9%;
+    width: 10%;
     line-height: 15px;
-    font-size: 1vw;
+    font-size: 1.25vw;
     color: white;
     background-color: #FF764E;
     border-radius: 10px;
-    padding: 1vh;
+    padding: .5vh;
 }
 
 .nav-button-middle {
     margin: 4%;
-    width: 9%;
+    width: 10%;
     line-height: 15px;
-    font-size: 1vw;
+    font-size: 1.25vw;
     color: white;
     background-color: #5ED3EB;
     border-radius: 10px;
-    padding: 1vh;
+    padding: .5vh;
 }
 
 .nav-button-right {
     margin: 4%;
-    width: 8%;
+    width: 9%;
     line-height: 15px;
-    font-size: 1vw;
+    font-size: 1.25vw;
     color: white;
     background-color: #FFCD69;
     border-radius: 10px;
-    padding: 1vh;
+    padding: .5vh;
 }
 
 
 .header-image {
-    width: 10%;
+    width: 20%;
     border-radius: 100%;
+    margin-bottom: 3%;
+}
+
+.intro {
+    margin-left: 4%;
+}
+
+.intro p {
+    text-align: center;
+}
+
+h1 {
+    display: inline;
+    font-family: Chelsea Market; 
+    font-size: 3vw;
+    margin-left: 1%;
+    margin-top: 0%;
+    padding-top: 0%;
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    color: white;
+    background-color: #DDB9A3;
+    padding: 3%;
     margin: 3%;
+}
+
+.details{
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.details p{
+   
+}
+
+.icons{
+    width: 15%;
+    padding: 3%;
+}
+
+.footer-image{
+    margin-top: 5%;
+    width: 100%;
+    clip: rect (1000px, 0px, 1000px, 0px);
 }
 
